@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tranbahau4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @tranbahau
+- 👀 I’m interested in listening to music 🎶
+- 🌱 I’m currently learning Spring Framework
 - 📫 My emai: tranbahau2411@gmail.com
 
 <!---
