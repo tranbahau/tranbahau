@@ -1,3 +1,4 @@
+![](https://github.com/tranbahau/tranbahau/blob/main/giphy.gif)
 - 👋 Hi, I’m @tranbahau
 - 👀 I’m interested in listening to music 🎶
 - 🌱 I’m currently learning Spring Framework
