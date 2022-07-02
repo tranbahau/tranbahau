@@ -1,4 +1,4 @@
-![Check out my work](https://i.gifer.com/4Jd.gif)
+![Check out my work](https://github.com/tranbahau/tranbahau/blob/main/4Jd.gif)
 
 
 <!---
